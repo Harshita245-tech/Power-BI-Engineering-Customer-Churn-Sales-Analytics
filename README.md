@@ -291,13 +291,6 @@ These checks helped confirm that the date dimension covered the required reporti
 
 ---
 
-# 🔍 How to Review the Project
-
-1. 📖 Read the project report for an overview of all five exercises.
-2. 🖼️ Review the screenshots to see the actual implementation.
-3. 🗄️ Examine the SQL scripts to understand database creation and validation.
-4. 📊 Open the `.pbix` file, if included, to inspect the data model, measures, and visuals.
-5. 👥 Explore the Customer Churn & Sales Analytics Dashboard to review the customer and spending-cluster analysis.
 
 ---
 
