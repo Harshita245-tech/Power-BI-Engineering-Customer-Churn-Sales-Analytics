@@ -2,8 +2,6 @@
 
 
 
----
-
 ## 📌 Project Overview
 
 This project focuses on developing a Power BI analytics solution using SQL Server, Power Query, DAX, and interactive visualizations. It covers five exercises involving data ingestion, ETL, dimensional modelling, analytical calculations, report development, and deployment-related concepts.
@@ -289,14 +287,37 @@ These checks helped confirm that the date dimension covered the required reporti
 
 ---
 
+# 📁 Suggested Repository Structure
 
+```text
+Power-BI-Engineering-Customer-Churn-Sales-Analytics/
+|
+|-- README.md
+|-- Report/
+|   |-- PowerBI_Engineering_Project_Report.pdf
+|   `-- PowerBI_Engineering_Project_Report.tex
+|
+|-- Screenshots/
+|   `-- Original implementation screenshots
+|
+|-- SQL/
+|   `-- SQL scripts used for creation and validation
+|
+`-- PowerBI/
+    `-- Power BI report file (.pbix), if included
 ```
 
-
+Add only the files that actually exist in your repository. Preserve the original screenshot filenames.
 
 ---
 
+# 🔍 How to Review the Project
 
+1. 📖 Read the project report for an overview of all five exercises.
+2. 🖼️ Review the screenshots to see the actual implementation.
+3. 🗄️ Examine the SQL scripts to understand database creation and validation.
+4. 📊 Open the `.pbix` file, if included, to inspect the data model, measures, and visuals.
+5. 👥 Explore the Customer Churn & Sales Analytics Dashboard to review the customer and spending-cluster analysis.
 
 ---
 
@@ -310,6 +331,3 @@ As a **Data Engineering Trainee at Nexturn**, this work helped me connect data e
 
 ---
 
-
-
-**Project:** Power BI Engineering - Customer Churn & Sales Analytics
